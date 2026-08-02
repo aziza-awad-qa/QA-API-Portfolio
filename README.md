@@ -2,7 +2,7 @@
 
 ## Project
 
-JSONPlaceholder REST API
+DummyJSON REST API
 
 ## Objective
 
