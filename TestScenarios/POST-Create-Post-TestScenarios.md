@@ -17,3 +17,4 @@ Verify the functionality of the Create Post API.
 | TS-003 | Verify that the response contains the `id` key. |
 | TS-004 | Verify that the response contains the `title` key. |
 | TS-005 | Verify that the response contains the `userId` key. |
+| TS-006 | Verify that the API rejects a request with invalid data types. |

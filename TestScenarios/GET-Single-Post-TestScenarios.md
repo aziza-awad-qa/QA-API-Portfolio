@@ -17,3 +17,4 @@ Verify the functionality of the Get Single Post API.
 | TS-003 | Verify that the response body contains the `title` key. |
 | TS-004 | Verify that the response body contains the `body` key. |
 | TS-005 | Verify that the response body contains the `userId` key. |
+| TS-006 | Verify that the API returns 404 Not Found when requesting a non-existing post. |
