@@ -14,6 +14,7 @@ This repository demonstrates practical API Testing skills using Postman.
 - REST API
 - JSON
 - Git & GitHub
+  
 ## API Endpoints Tested
 
 | Method | Endpoint | Purpose |
@@ -24,6 +25,7 @@ This repository demonstrates practical API Testing skills using Postman.
 | PUT | `/posts/1` | Update a post |
 | PATCH | `/posts/1` | Partially update a post |
 | DELETE | `/posts/1` | Delete a post |
+
 ## Testing Scope
 
 ### Functional Testing
@@ -46,7 +48,8 @@ This repository demonstrates practical API Testing skills using Postman.
 
 - Requesting a non-existing post
 - Sending invalid data types
-  ## Test Documentation
+
+## Test Documentation
 
 - [Test Plan](TestPlan/API-TestPlan.md)
 - [Test Scenarios](TestScenarios/)
